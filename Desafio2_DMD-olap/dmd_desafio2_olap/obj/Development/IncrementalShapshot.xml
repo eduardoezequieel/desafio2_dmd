@@ -33,28 +33,28 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>3K3EA8TJUqoQqDwUu1saLGasb3k=26/5/2025 22:15:4426/5/2025 22:15:44</TimeStamp>
+        <TimeStamp>dqmO4qn67wP4E9agWXh5S1H/NZY=27/5/2025 11:15:1726/5/2025 22:15:44</TimeStamp>
         <ID>
           <String>Dim Tipo Movilidad</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>1UEE3FMUemoqM9C3z0ac+JKfNp4=26/5/2025 22:15:4426/5/2025 22:15:44</TimeStamp>
+        <TimeStamp>7B9zimwm79rrpAhNPVMdH9aW3Ro=27/5/2025 11:18:0526/5/2025 22:15:44</TimeStamp>
         <ID>
           <String>Dim Region</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>YgB6U658kysbBi06WEFLfOETczM=26/5/2025 22:53:1126/5/2025 22:15:44</TimeStamp>
+        <TimeStamp>F0UZVgnvFD+nupdclGgyNsKsZIk=27/5/2025 16:04:2726/5/2025 22:15:44</TimeStamp>
         <ID>
           <String>Dim Fecha</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>9o1lG1HpqfmWECHKHCu34AANzVk=26/5/2025 22:35:2226/5/2025 22:15:448qa5JR+8i5YL660YkYP0+BxkSRg=26/5/2025 22:15:4426/5/2025 22:15:44</TimeStamp>
+        <TimeStamp>nubfA0b1wZx9OX7nNWLzlk4aVpY=27/5/2025 16:00:2226/5/2025 22:15:448qa5JR+8i5YL660YkYP0+BxkSRg=26/5/2025 22:15:4426/5/2025 22:15:44</TimeStamp>
         <ID>
           <String>Covidmovilidad</String>
         </ID>
@@ -71,5 +71,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2025-05-27T04:53:12.756667Z</LastDeployed>
+  <LastDeployed>2025-05-27T22:32:27.426667Z</LastDeployed>
 </DeploymentSnapshot>

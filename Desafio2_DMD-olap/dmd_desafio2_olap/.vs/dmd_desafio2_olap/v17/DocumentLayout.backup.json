@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\",
+  "WorkspaceRootPath": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\Dim Fecha.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|solutionrelative:Dim Fecha.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\Covidmovilidad.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "AbsoluteMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\Covidmovilidad.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
       "RelativeMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|solutionrelative:Covidmovilidad.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\Dim Region.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|solutionrelative:Dim Region.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+      "AbsoluteMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\Dim Fecha.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|solutionrelative:Dim Fecha.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\Dim Tipo Movilidad.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "AbsoluteMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\Dim Tipo Movilidad.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
       "RelativeMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|solutionrelative:Dim Tipo Movilidad.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\Dim Region.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{27B4031E-FE20-8DC2-1DBF-30D55AC41845}|dmd_desafio2_olap.dwproj|solutionrelative:Dim Region.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 186,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,45 +46,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Dim Tipo Movilidad.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\Dim Tipo Movilidad.dim",
+              "DocumentMoniker": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\Dim Tipo Movilidad.dim",
               "RelativeDocumentMoniker": "Dim Tipo Movilidad.dim",
-              "ToolTip": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\Dim Tipo Movilidad.dim [Design]",
+              "ToolTip": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\Dim Tipo Movilidad.dim [Design]",
               "RelativeToolTip": "Dim Tipo Movilidad.dim [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-27T04:50:08.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dim Region.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\Dim Region.dim",
-              "RelativeDocumentMoniker": "Dim Region.dim",
-              "ToolTip": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\Dim Region.dim [Design]",
-              "RelativeToolTip": "Dim Region.dim [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-27T04:49:58.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dim Fecha.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\Dim Fecha.dim",
-              "RelativeDocumentMoniker": "Dim Fecha.dim",
-              "ToolTip": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\Dim Fecha.dim [Design]",
-              "RelativeToolTip": "Dim Fecha.dim [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-27T04:36:02.672Z",
+              "WhenOpened": "2025-05-27T17:05:29.269Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Dim Fecha.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\Dim Fecha.dim",
+              "RelativeDocumentMoniker": "Dim Fecha.dim",
+              "ToolTip": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\Dim Fecha.dim [Design]",
+              "RelativeToolTip": "Dim Fecha.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T16:59:16.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Region.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\Dim Region.dim",
+              "RelativeDocumentMoniker": "Dim Region.dim",
+              "ToolTip": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\Dim Region.dim [Design]",
+              "RelativeToolTip": "Dim Region.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T16:45:05.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Covidmovilidad.cube [Design]",
-              "DocumentMoniker": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\Covidmovilidad.cube",
+              "DocumentMoniker": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\Covidmovilidad.cube",
               "RelativeDocumentMoniker": "Covidmovilidad.cube",
-              "ToolTip": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\dmd_desafio2\\dmd_desafio2_olap\\Covidmovilidad.cube [Design]",
+              "ToolTip": "C:\\Users\\Eduardo Lopez\\Documents\\GitHub\\desafio2_dmd_final\\Desafio2_DMD-olap\\dmd_desafio2_olap\\Covidmovilidad.cube [Design]",
               "RelativeToolTip": "Covidmovilidad.cube [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-05-26T22:49:02.547Z",
