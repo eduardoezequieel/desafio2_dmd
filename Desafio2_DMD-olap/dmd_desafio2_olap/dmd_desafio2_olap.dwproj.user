@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Covidmovilidad</Id>
+            <Name>Covidmovilidad</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeNSRULN4BkesjEyTQrqYwAAAAAAeAAAAQwBvAHYAaQBkAG0AbwB2AGkAbABpAGQAYQBkAAAAEGYAAAABAAAgAAAAqowFezKk0zXkGaZhYvoRav5Esz9DdLU2+vVAEcDcEDkAAAAADoAAAAACAAAgAAAALM93xOyp2N3FaR8fIHttMDRcuuO3GkEImar1A3ooztkQAAAAE4cKWJMhXAuByi9mml5doEAAAAAWEqMdoPOFVo7IsPsSVwfgjzza39JmXAk3yE+hSaVPSevEs+caHXpYWSkEAnDUpho99rTUPppXkvK9FNc8Fqkh</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Covidmovilidad</Id>
+            <Name>Covidmovilidad</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeNSRULN4BkesjEyTQrqYwAAAAAAeAAAAQwBvAHYAaQBkAG0AbwB2AGkAbABpAGQAYQBkAAAAEGYAAAABAAAgAAAA6wp32lD3ERjsQDT7vdT/V6YG6R0TzTWIEQavKL2IHi0AAAAADoAAAAACAAAgAAAAImO6tWATyCItToSvgOVoYsda1Mpal+l3XpnYZjbjaQogAAAAutl4IO8LifSER+YAIm9RvOdAAXZw16C5Wwye8W4rb1FAAAAAgzwgp5wnViuwxsTx2ptLe3kLm25rolwOB5d3glGZbB36TGhWq64H/pV0U0p6lvW83zQdnYLROuF1hc4fzpZo/A==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>EDUARDO-REPUBLI</TargetServer>
+        <TargetDatabase>dmd_desafio2_olap</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
